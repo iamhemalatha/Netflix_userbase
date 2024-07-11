@@ -1,1 +1,1 @@
-# Netflix_userbase
+We analyze and reveal key insights from a synthetic Netflix user dataset to gain a comprehensive understanding, using SQL queries for the analysis.![Capture](https://github.com/iamhemalatha/Netflix_userbase/assets/172480545/6d4b35c1-a8ba-4677-bbea-4ea7d1a6d21f)
